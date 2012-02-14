@@ -1,0 +1,15 @@
+{
+    "name": "Wave Accounting Browser Shortcut",
+    "version": "0.0.1",
+    "description": "This app is only a shortcut to Wave Accounting Website.",
+    "icons": {
+        "16": "icon16.png", 
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "browser_action": {
+        "default_icon": "icon48.png",
+        "defaul_title": "Wave Accounting Browser Shortcut",
+        "popup": "shortcut.html"
+    } 
+}
