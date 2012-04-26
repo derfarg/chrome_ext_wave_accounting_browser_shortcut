@@ -1,0 +1,32 @@
+.container{ 
+	width:300px; 
+	background-color:rgb(5,42,61);	
+	height:200px; 
+}
+
+.content{
+	padding:10px;
+	text-align:center;
+}
+
+.item{
+	margin-top:20px;
+	background-color:rgb(0,30,45);
+	height: 30px;
+	border-radius: 30px;
+	text-align:center;
+}
+
+.item a{
+	display:block;
+	font-weight:bolder;
+	font-size:20px;
+	color:rgb(113,199,195);
+	text-decoration:none;
+	text-align:center;
+	line-height:30px
+}
+
+.item a:hover{
+	color:white;
+}
